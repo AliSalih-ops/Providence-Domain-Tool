@@ -24,3 +24,27 @@ Clone the repository and make the script executable:
 git clone https://github.com/yourusername/providence-domain-tool.git
 cd providence-domain-tool
 chmod +x providenceDomainTool.sh
+
+```
+Optional: Tor Setup
+
+For anonymized queries:
+
+Install Tor:
+
+Debian / Ubuntu / Kali:
+
+```bash
+sudo apt update
+sudo apt install tor torsocks -y
+```
+
+Usage
+
+Run the script and follow the prompts:
+```bash
+./providenceDomainTool.sh
+
+```
+
+
