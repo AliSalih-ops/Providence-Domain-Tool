@@ -21,7 +21,7 @@ Providence Domain Tool is a professional **domain intelligence and reconnaissanc
 Clone the repository and make the script executable:
 
 ```bash
-git clone https://github.com/yourusername/providence-domain-tool.git
+https://github.com/AliSalih-ops/Providence-Domain-Tool.git
 cd providence-domain-tool
 chmod +x providenceDomainTool.sh
 
